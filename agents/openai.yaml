@@ -1,0 +1,4 @@
+interface:
+  display_name: "Direct Job Application Agent"
+  short_description: "Screen, tailor, and track employer-site applications"
+  default_prompt: "Use $direct-job-application to evaluate this job lead and prepare an application under my private preferences."

@@ -1,0 +1,12 @@
+private/
+work/
+outputs/
+.env
+.env.*
+.DS_Store
+*.pdf
+*.docx
+*.xlsx
+*.csv
+*.tsv
+*.zip

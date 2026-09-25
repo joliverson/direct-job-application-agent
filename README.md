@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1b07f018-821d-4c8c-b505-4350cb4d0f92" />
+
 # Direct Job Application Agent
 
 A Codex skill that screens job leads against documented experience, prepares accurate applications, routes submissions through employer careers sites, and records verified results in an optional tracker.
